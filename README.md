@@ -123,7 +123,8 @@ Y_NOT = A'
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 Output
 # OUTPUT
-![Uploading WhatsApp Image 2026-11-06 at 6.52.20 PM.jpeg…]()
+<img width="1302" height="742" alt="Screenshot 2026-11-06 185515" src="https://github.com/user-attachments/assets/2cef29ea-7300-4448-92e6-25e9ee3c4e1d" />
+
 
 
 
