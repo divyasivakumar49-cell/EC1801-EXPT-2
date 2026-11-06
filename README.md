@@ -123,7 +123,8 @@ Y_NOT = A'
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 Output
 # OUTPUT
-![Uploading image.png…]()
+![Uploading WhatsApp Image 2026-11-06 at 6.52.20 PM.jpeg…]()
+
 
 
 
